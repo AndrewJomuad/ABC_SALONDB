@@ -1,0 +1,5 @@
+SELECT TOP (1000) [QueNum]
+      ,[Name]
+      ,[Email]
+      ,[ContactNumber]
+  FROM [MIDTERM_DB].[dbo].[SALON_DB]
